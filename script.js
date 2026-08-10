@@ -301,7 +301,7 @@ function renderYouTubeVideos() {
                 <div class="video-thumbnail">
 
                     <img
-                        src="../images/video1.jpg"
+                        src="./images/video1.jpg"
                         alt="Shristy Sharan Vlogs"
                         loading="lazy"
                     >
@@ -339,7 +339,7 @@ function renderYouTubeVideos() {
                 <div class="video-thumbnail">
 
                     <img
-                        src="../images/video2.jpg"
+                        src="./images/video2.jpg"
                         alt="Daily vlog"
                         loading="lazy"
                     >
@@ -377,7 +377,7 @@ function renderYouTubeVideos() {
                 <div class="video-thumbnail">
 
                     <img
-                        src="../images/video3.jpg"
+                        src="./images/video3.jpg"
                         alt="Mini vlog"
                         loading="lazy"
                     >
