@@ -1070,7 +1070,7 @@ button {
 
 .instagram-item {
     position: relative;
-    aspect-ratio: 1;
+    aspect-ratio: 0.7/1;
     overflow: hidden;
 }
 
