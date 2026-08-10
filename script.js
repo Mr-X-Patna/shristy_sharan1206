@@ -301,13 +301,13 @@ function renderYouTubeVideos() {
                 <div class="video-thumbnail">
 
                     <img
-                        src="assets/images/youtube-placeholder.jpg"
+                        src="../images/video1.jpg"
                         alt="Shristy Sharan Vlogs"
                         loading="lazy"
                     >
 
                     <a
-                        href="${siteConfig.social.youtube}"
+                        href="https://youtu.be/tRK4K-rDT5Y"
                         target="_blank"
                         rel="noopener noreferrer"
                         class="video-play"
@@ -339,13 +339,13 @@ function renderYouTubeVideos() {
                 <div class="video-thumbnail">
 
                     <img
-                        src="assets/images/vlog-placeholder-2.jpg"
+                        src="../images/video2.jpg"
                         alt="Daily vlog"
                         loading="lazy"
                     >
 
                     <a
-                        href="${siteConfig.social.youtube}"
+                        href="https://youtu.be/CepZ5-EuhFw"
                         target="_blank"
                         rel="noopener noreferrer"
                         class="video-play"
@@ -377,13 +377,13 @@ function renderYouTubeVideos() {
                 <div class="video-thumbnail">
 
                     <img
-                        src="assets/images/vlog-placeholder-3.jpg"
+                        src="../images/video3.jpg"
                         alt="Mini vlog"
                         loading="lazy"
                     >
 
                     <a
-                        href="${siteConfig.social.youtube}"
+                        href="https://youtu.be/hsG_F9NgNKI"
                         target="_blank"
                         rel="noopener noreferrer"
                         class="video-play"
